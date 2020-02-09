@@ -1,0 +1,18 @@
+{
+  "name": "week_2",
+  "version": "0.1.0",
+  "description": "exercise for second week of js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/istma/js_course_week2.git"
+  },
+  "author": "Maria Maistruk",
+  "license": "ISC",
+  "dependencies": {
+    "logger": "0.0.1"
+  }
+}

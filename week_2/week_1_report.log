@@ -1,0 +1,44 @@
+
+info [Mon Nov 04 2019 23:32:17 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder was assigned Spaetzle
+info [Mon Nov 04 2019 23:32:17 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder serves Mark Tremonti
+
+
+info [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder was assigned Spaetzle
+info [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder serves Mark Tremonti
+debug [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  Bob Marley came to life
+debug [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  Mark Tremonti came to life
+debug [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  Alice Cooper came to life
+warn [Mon Nov 04 2019 23:36:40 GMT+0100 (Central European Standard Time)]  you didn't finish the exercise
+
+
+info [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder was assigned Spaetzle
+info [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder serves Mark Tremonti
+debug [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  Bob Marley came to life
+debug [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  Mark Tremonti came to life
+debug [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  Alice Cooper came to life
+warn [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  you didn't finish the exercise
+info [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  saving luke to db
+info [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  saving alive to db
+info [Mon Nov 04 2019 23:48:47 GMT+0100 (Central European Standard Time)]  saving spaetzle to db
+
+
+info [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder was assigned Spaetzle
+info [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder serves Mark Tremonti
+debug [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  Bob Marley came to life
+debug [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  Mark Tremonti came to life
+debug [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  Alice Cooper came to life
+warn [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  you didn't finish the exercise
+info [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  saving luke to db
+info [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  saving alice to db
+info [Mon Nov 04 2019 23:57:26 GMT+0100 (Central European Standard Time)]  saving spaetzle to db
+
+
+info [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder was assigned Spaetzle
+info [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  Delivery guy Luke Skywalder serves Mark Tremonti
+debug [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  Bob Marley came to life
+debug [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  Mark Tremonti came to life
+debug [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  Alice Cooper came to life
+warn [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  you didn't finish the exercise
+info [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  saving luke to db
+info [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  saving alice to db
+info [Tue Nov 05 2019 00:00:22 GMT+0100 (Central European Standard Time)]  saving spaetzle to db

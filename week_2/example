@@ -1,0 +1,10 @@
+service = require('./base-service')
+deliveryguy = require('./DeliveryGUy')
+
+service = new Service('','')
+guy = new DeliveryGuy('Maria')
+
+/* entry point */
+
+service.findAll()
+guy.serveCustomer(dsasd)
